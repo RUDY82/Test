@@ -1,0 +1,16 @@
+Мать:ASUS P8Z77-V LE PLUS
+Проц:Intel Core i5-3570K CPU @ 3.40GHz  Noctua NH-D14 
+Память:Team Group Dark-1600 2x8 ГБ DDR3-1333 DDR3 SDRAM
+Видео:Zotac GeForce GTX560 ZT-50702-10M
+Хард:   Crucial M4-CT064M4SSD2
+        WD15000HLFS  10000
+        WD FALS 1 Tb 32 mb
+Писюк:ASUS  DWD+/-RW SATA2
+Корпус: Thermaltake aguila VD1000
+Zalman ZM-MFC1 Plus Black
+Noctua NF-P14 FLX - 2 шт,Noctua NF-P12 - 5шт
+БП:Antec High Current Gamer 900W 
+Акустика:Logitech Z5500
+Моник:Samsung 2232BW
+Телик:Samsung UE40D6510WS 
+
